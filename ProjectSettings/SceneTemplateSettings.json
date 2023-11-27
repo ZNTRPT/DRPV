@@ -1,4 +1,10 @@
-{
+
+    "templatePinStates": [
+        {
+            "templateId": "Empty",
+            "isEnabled": true
+        }
+    ],
     "templatePinStates": [],
     "dependencyTypeInfos": [
         {
