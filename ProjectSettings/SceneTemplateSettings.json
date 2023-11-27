@@ -1,10 +1,14 @@
 {
+<<<<<<< HEAD
     "templatePinStates": [
         {
             "templateId": "Empty",
             "isEnabled": true
         }
     ],
+=======
+    "templatePinStates": [],
+>>>>>>> 48a0eee50222daa792802b59e8b7dc7ba8bc8706
     "dependencyTypeInfos": [
         {
             "userAdded": false,
