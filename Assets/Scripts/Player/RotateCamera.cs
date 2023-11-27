@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RotateCamera : MonoBehaviour
 {
-    [SerializeField] private float rotationSpeed = 5;
+    [SerializeField] private float rotationSpeed = 20;
 
     /// <summary>
     /// Every frame we will get if the player is trying to use AD or <> and rotate the camera accordingly.
