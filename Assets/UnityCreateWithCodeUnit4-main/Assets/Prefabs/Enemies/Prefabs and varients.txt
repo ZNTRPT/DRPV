@@ -1,0 +1,4 @@
+Here you can see that we have 3 different types of enemies.
+Our basic enemy is the Original prefab. Changes to this one will apply to the other varients of this prefab.
+Our Small enemy is a varient that has a modified size and speed. It uses the same enemy.cs script as it has no different behaviour.
+Our BigEnemy is a varient that has a modified size and speed. It also uses a different enemy script. The BigEnemy.cs script inherits from the enemy.cs script meaning it will have a lot of the same behavior. However when the big enemy is destroyed it will spawn a new small enemy.
